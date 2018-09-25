@@ -8,7 +8,7 @@ def name_starts_with(char):
     with open('name_starts_with_%s.txt' % char, 'w') as f:
         count = 0
         for character in characters:
-            if character["name"][0] == "A":
+            if character["name"][0] == char:
                 f.write(character["name"] + "\n")
                 count += 1
         f.write(str(count))
@@ -81,6 +81,21 @@ def houses_histogram():
         for allegiance in houses:
             f.write("%s: %d\n" % (allegiance, houses[allegiance]))
 
-
+# How many characters names start with "A"?
 name_starts_with("A")
+# How many characters names start with "Z"?
 name_starts_with("Z")
+# How many characters are dead?
+dead_characters()
+# Who has the most titles?
+most_titles()
+# How many are Valyrian?
+valyrian_count()
+# What actor plays "Hot Pie"?
+who_is_hot_pie()
+# How many characters are *not* in the tv show?
+characters_not_in_show()
+# Produce a list of characters with the last name "Targaryen"
+last_name_targaryen()
+# Create a histogram of the house (it's the "allegiances" key)
+houses_histogram()
