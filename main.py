@@ -6,37 +6,81 @@ from characters.characters import characters
 # How many characters names start with "Z"?
 def name_starts_with(char):
     with open('name_starts_with_%s.txt' % char, 'w') as f:
+        count = 0
         for character in characters:
-            if character[0] == char:
-                f.write(character)
+            if character["name"][0] == "A":
+                f.write(character["name"] + "\n")
+                count += 1
+        f.write(str(count))
 
 # How many characters are dead?
 def dead_characters():
-    pass
+    with open("dead_characters.txt", 'w') as f:
+        count = 0
+        for character in characters:
+            if character["died"] != '':
+                f.write(character['died'] + '\n')
+                count += 1
+        f.write(str(count))
 
 # Who has the most titles?
 def most_titles():
-    pass
+    with open("most_titles.txt", 'w') as f:
+        title_count = 0
+        title_winner = ''
+        for character in characters:
+            if len(character['titles']) > title_count:
+                title_count = len(character['titles'])
+                title_winner = character['name']
+        f.write('%s, %d' % (title_winner, title_count))
 
 # How many are Valyrian?
 def valyrian_count():
-    pass
+    with open('valyrian_count.txt', 'w') as f:
+        count = 0
+        for character in characters:
+            if character['culture'] == 'Valyrian':
+                f.write(character['name'] + '\n')
+                count += 1
+        f.write(str(count))
 
 # What actor plays "Hot Pie"?
 def who_is_hot_pie():
-    pass
+    with open('who_is_hot_pie.txt', 'w') as f:
+        for character in characters:
+            if 'Hot Pie' in character['aliases']:
+                f.write(character['playedBy'] + '\n')
+
 
 # How many characters are *not* in the tv show?
 def characters_not_in_show():
-    pass
+    with open('characters_not_in_show.txt', 'w') as f:
+        count = 0
+        for character in characters:
+            if len(character['tvSeries']) == 0:
+                f.write(character['name'] + '\n')
+        f.write(str(count))
 
 # Produce a list of characters with the last name "Targaryen"
 def last_name_targaryen():
-    pass
+    with open('last_name_targaryen.txt', 'w') as f:
+        for character in characters:
+            if 'Targaryen' in character['name']:
+                f.write(character['name'] + '\n')
 
 # Create a histogram of the house (it's the "allegiances" key)
 def houses_histogram():
-    pass
+    with open('houses_histogram.txt', 'w') as f:
+        houses = {}
+        for character in characters:
+            for allegiance in character['allegiances']:
+                if allegiance not in houses:
+                    houses[allegiance] = 1
+                else:
+                    houses[allegiance] += 1
+        for allegiance in houses:
+            f.write("%s: %d\n" % (allegiance, houses[allegiance]))
 
 
 name_starts_with("A")
+name_starts_with("Z")
