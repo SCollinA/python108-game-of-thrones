@@ -57,8 +57,9 @@ def characters_not_in_show():
     with open('characters_not_in_show.txt', 'w') as f:
         count = 0
         for character in characters:
-            if len(character['tvSeries']) == 0:
+            if len(character['tvSeries']) == 1 and character['tvSeries'][0] == '':
                 f.write(character['name'] + '\n')
+                count += 1
         f.write(str(count))
 
 # Produce a list of characters with the last name "Targaryen"
