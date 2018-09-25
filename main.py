@@ -48,8 +48,9 @@ def valyrian_count():
 def who_is_hot_pie():
     with open('who_is_hot_pie.txt', 'w') as f:
         for character in characters:
-            if 'Hot Pie' in character['aliases']:
-                f.write(character['playedBy'] + '\n')
+            if 'Hot Pie' in character['name']:
+                for actor in character['playedBy']:
+                    f.write(actor + '\n')
 
 
 # How many characters are *not* in the tv show?
