@@ -1,297 +1,296 @@
-https://www.anapioficeandfire.com/api/houses/362: 88
-https://www.anapioficeandfire.com/api/houses/398: 44
-https://www.anapioficeandfire.com/api/houses/229: 79
-https://www.anapioficeandfire.com/api/houses/195: 19
-https://www.anapioficeandfire.com/api/houses/143: 123
-https://www.anapioficeandfire.com/api/houses/258: 5
-https://www.anapioficeandfire.com/api/houses/291: 22
-https://www.anapioficeandfire.com/api/houses/378: 101
-https://www.anapioficeandfire.com/api/houses/407: 15
-https://www.anapioficeandfire.com/api/houses/374: 9
-https://www.anapioficeandfire.com/api/houses/23: 11
-https://www.anapioficeandfire.com/api/houses/37: 14
-https://www.anapioficeandfire.com/api/houses/300: 4
-https://www.anapioficeandfire.com/api/houses/7: 24
-https://www.anapioficeandfire.com/api/houses/83: 3
-https://www.anapioficeandfire.com/api/houses/117: 7
-https://www.anapioficeandfire.com/api/houses/169: 42
-https://www.anapioficeandfire.com/api/houses/439: 2
-https://www.anapioficeandfire.com/api/houses/443: 2
-https://www.anapioficeandfire.com/api/houses/178: 7
-https://www.anapioficeandfire.com/api/houses/329: 7
-https://www.anapioficeandfire.com/api/houses/133: 14
-https://www.anapioficeandfire.com/api/houses/360: 1
-https://www.anapioficeandfire.com/api/houses/281: 6
-https://www.anapioficeandfire.com/api/houses/286: 6
-https://www.anapioficeandfire.com/api/houses/145: 1
-https://www.anapioficeandfire.com/api/houses/386: 2
-https://www.anapioficeandfire.com/api/houses/99: 7
-https://www.anapioficeandfire.com/api/houses/159: 1
-https://www.anapioficeandfire.com/api/houses/4: 5
-https://www.anapioficeandfire.com/api/houses/74: 1
-https://www.anapioficeandfire.com/api/houses/80: 5
-https://www.anapioficeandfire.com/api/houses/172: 6
-https://www.anapioficeandfire.com/api/houses/206: 2
-https://www.anapioficeandfire.com/api/houses/359: 3
-https://www.anapioficeandfire.com/api/houses/377: 3
-https://www.anapioficeandfire.com/api/houses/417: 10
-https://www.anapioficeandfire.com/api/houses/18: 9
-https://www.anapioficeandfire.com/api/houses/215: 11
-https://www.anapioficeandfire.com/api/houses/385: 2
-https://www.anapioficeandfire.com/api/houses/271: 8
-https://www.anapioficeandfire.com/api/houses/52: 3
-https://www.anapioficeandfire.com/api/houses/120: 3
-https://www.anapioficeandfire.com/api/houses/234: 5
-https://www.anapioficeandfire.com/api/houses/380: 8
-https://www.anapioficeandfire.com/api/houses/27: 8
-https://www.anapioficeandfire.com/api/houses/17: 19
-https://www.anapioficeandfire.com/api/houses/86: 12
-https://www.anapioficeandfire.com/api/houses/55: 5
-https://www.anapioficeandfire.com/api/houses/230: 2
-https://www.anapioficeandfire.com/api/houses/245: 2
-https://www.anapioficeandfire.com/api/houses/328: 12
-https://www.anapioficeandfire.com/api/houses/444: 6
-https://www.anapioficeandfire.com/api/houses/68: 2
-https://www.anapioficeandfire.com/api/houses/40: 10
-https://www.anapioficeandfire.com/api/houses/8: 4
-https://www.anapioficeandfire.com/api/houses/121: 4
-https://www.anapioficeandfire.com/api/houses/212: 2
-https://www.anapioficeandfire.com/api/houses/65: 1
-https://www.anapioficeandfire.com/api/houses/109: 2
-https://www.anapioficeandfire.com/api/houses/285: 36
-https://www.anapioficeandfire.com/api/houses/63: 6
-https://www.anapioficeandfire.com/api/houses/337: 3
-https://www.anapioficeandfire.com/api/houses/282: 3
-https://www.anapioficeandfire.com/api/houses/311: 4
-https://www.anapioficeandfire.com/api/houses/341: 3
-https://www.anapioficeandfire.com/api/houses/210: 5
-https://www.anapioficeandfire.com/api/houses/26: 2
-https://www.anapioficeandfire.com/api/houses/56: 2
-https://www.anapioficeandfire.com/api/houses/36: 14
-https://www.anapioficeandfire.com/api/houses/373: 10
-https://www.anapioficeandfire.com/api/houses/111: 3
-https://www.anapioficeandfire.com/api/houses/335: 8
-https://www.anapioficeandfire.com/api/houses/187: 1
-https://www.anapioficeandfire.com/api/houses/54: 1
-https://www.anapioficeandfire.com/api/houses/19: 2
-https://www.anapioficeandfire.com/api/houses/46: 1
-https://www.anapioficeandfire.com/api/houses/376: 7
-https://www.anapioficeandfire.com/api/houses/48: 2
-https://www.anapioficeandfire.com/api/houses/202: 5
-https://www.anapioficeandfire.com/api/houses/102: 3
-https://www.anapioficeandfire.com/api/houses/61: 4
-https://www.anapioficeandfire.com/api/houses/34: 15
-https://www.anapioficeandfire.com/api/houses/317: 11
-https://www.anapioficeandfire.com/api/houses/326: 3
-https://www.anapioficeandfire.com/api/houses/325: 2
-https://www.anapioficeandfire.com/api/houses/186: 1
-https://www.anapioficeandfire.com/api/houses/180: 1
-https://www.anapioficeandfire.com/api/houses/29: 1
-https://www.anapioficeandfire.com/api/houses/91: 2
-https://www.anapioficeandfire.com/api/houses/364: 6
-https://www.anapioficeandfire.com/api/houses/139: 5
-https://www.anapioficeandfire.com/api/houses/15: 25
-https://www.anapioficeandfire.com/api/houses/60: 5
-https://www.anapioficeandfire.com/api/houses/395: 17
-https://www.anapioficeandfire.com/api/houses/355: 4
-https://www.anapioficeandfire.com/api/houses/438: 10
-https://www.anapioficeandfire.com/api/houses/403: 2
-https://www.anapioficeandfire.com/api/houses/295: 3
-https://www.anapioficeandfire.com/api/houses/50: 2
-https://www.anapioficeandfire.com/api/houses/85: 5
-https://www.anapioficeandfire.com/api/houses/302: 3
-https://www.anapioficeandfire.com/api/houses/66: 3
-https://www.anapioficeandfire.com/api/houses/81: 8
-https://www.anapioficeandfire.com/api/houses/316: 7
-https://www.anapioficeandfire.com/api/houses/257: 5
-https://www.anapioficeandfire.com/api/houses/106: 8
-https://www.anapioficeandfire.com/api/houses/293: 7
-https://www.anapioficeandfire.com/api/houses/350: 1
-https://www.anapioficeandfire.com/api/houses/410: 3
-https://www.anapioficeandfire.com/api/houses/246: 6
-https://www.anapioficeandfire.com/api/houses/354: 4
-https://www.anapioficeandfire.com/api/houses/176: 3
-https://www.anapioficeandfire.com/api/houses/2: 4
-https://www.anapioficeandfire.com/api/houses/303: 8
-https://www.anapioficeandfire.com/api/houses/95: 4
-https://www.anapioficeandfire.com/api/houses/254: 6
-https://www.anapioficeandfire.com/api/houses/166: 1
-https://www.anapioficeandfire.com/api/houses/340: 9
-https://www.anapioficeandfire.com/api/houses/92: 2
-https://www.anapioficeandfire.com/api/houses/379: 6
-https://www.anapioficeandfire.com/api/houses/255: 10
-https://www.anapioficeandfire.com/api/houses/239: 4
-https://www.anapioficeandfire.com/api/houses/336: 1
-https://www.anapioficeandfire.com/api/houses/198: 5
-https://www.anapioficeandfire.com/api/houses/14: 1
-https://www.anapioficeandfire.com/api/houses/388: 2
-https://www.anapioficeandfire.com/api/houses/321: 1
-https://www.anapioficeandfire.com/api/houses/415: 1
-https://www.anapioficeandfire.com/api/houses/16: 8
-https://www.anapioficeandfire.com/api/houses/75: 2
-https://www.anapioficeandfire.com/api/houses/269: 3
-https://www.anapioficeandfire.com/api/houses/425: 12
-https://www.anapioficeandfire.com/api/houses/400: 3
-https://www.anapioficeandfire.com/api/houses/404: 5
-https://www.anapioficeandfire.com/api/houses/319: 2
-https://www.anapioficeandfire.com/api/houses/261: 2
-https://www.anapioficeandfire.com/api/houses/429: 2
-https://www.anapioficeandfire.com/api/houses/283: 1
-https://www.anapioficeandfire.com/api/houses/142: 6
-https://www.anapioficeandfire.com/api/houses/405: 4
-https://www.anapioficeandfire.com/api/houses/207: 5
-https://www.anapioficeandfire.com/api/houses/150: 6
-https://www.anapioficeandfire.com/api/houses/189: 1
-https://www.anapioficeandfire.com/api/houses/306: 2
-https://www.anapioficeandfire.com/api/houses/141: 1
-https://www.anapioficeandfire.com/api/houses/397: 2
-https://www.anapioficeandfire.com/api/houses/151: 4
-https://www.anapioficeandfire.com/api/houses/163: 2
-https://www.anapioficeandfire.com/api/houses/158: 1
-https://www.anapioficeandfire.com/api/houses/160: 3
-https://www.anapioficeandfire.com/api/houses/35: 1
-https://www.anapioficeandfire.com/api/houses/296: 3
-https://www.anapioficeandfire.com/api/houses/155: 6
-https://www.anapioficeandfire.com/api/houses/272: 4
-https://www.anapioficeandfire.com/api/houses/372: 2
-https://www.anapioficeandfire.com/api/houses/171: 1
-https://www.anapioficeandfire.com/api/houses/148: 1
-https://www.anapioficeandfire.com/api/houses/123: 4
-https://www.anapioficeandfire.com/api/houses/267: 1
-https://www.anapioficeandfire.com/api/houses/161: 3
-https://www.anapioficeandfire.com/api/houses/401: 6
-https://www.anapioficeandfire.com/api/houses/177: 1
-https://www.anapioficeandfire.com/api/houses/368: 1
-https://www.anapioficeandfire.com/api/houses/369: 4
-https://www.anapioficeandfire.com/api/houses/124: 2
-https://www.anapioficeandfire.com/api/houses/367: 3
-https://www.anapioficeandfire.com/api/houses/399: 2
-https://www.anapioficeandfire.com/api/houses/33: 1
-https://www.anapioficeandfire.com/api/houses/218: 3
-https://www.anapioficeandfire.com/api/houses/219: 3
-https://www.anapioficeandfire.com/api/houses/196: 1
-https://www.anapioficeandfire.com/api/houses/13: 2
-https://www.anapioficeandfire.com/api/houses/181: 1
-https://www.anapioficeandfire.com/api/houses/318: 4
-https://www.anapioficeandfire.com/api/houses/313: 1
-https://www.anapioficeandfire.com/api/houses/435: 2
-https://www.anapioficeandfire.com/api/houses/194: 3
-https://www.anapioficeandfire.com/api/houses/413: 1
-https://www.anapioficeandfire.com/api/houses/411: 1
-https://www.anapioficeandfire.com/api/houses/57: 1
-https://www.anapioficeandfire.com/api/houses/276: 1
-https://www.anapioficeandfire.com/api/houses/140: 4
-https://www.anapioficeandfire.com/api/houses/51: 1
-https://www.anapioficeandfire.com/api/houses/97: 6
-https://www.anapioficeandfire.com/api/houses/73: 3
-https://www.anapioficeandfire.com/api/houses/250: 2
-https://www.anapioficeandfire.com/api/houses/305: 2
-https://www.anapioficeandfire.com/api/houses/244: 2
-https://www.anapioficeandfire.com/api/houses/20: 1
-https://www.anapioficeandfire.com/api/houses/251: 2
-https://www.anapioficeandfire.com/api/houses/278: 1
-https://www.anapioficeandfire.com/api/houses/299: 1
-https://www.anapioficeandfire.com/api/houses/115: 1
-https://www.anapioficeandfire.com/api/houses/260: 2
-https://www.anapioficeandfire.com/api/houses/78: 1
-https://www.anapioficeandfire.com/api/houses/396: 1
-https://www.anapioficeandfire.com/api/houses/381: 1
-https://www.anapioficeandfire.com/api/houses/22: 1
-https://www.anapioficeandfire.com/api/houses/434: 1
-https://www.anapioficeandfire.com/api/houses/343: 3
-https://www.anapioficeandfire.com/api/houses/363: 3
-https://www.anapioficeandfire.com/api/houses/253: 1
-https://www.anapioficeandfire.com/api/houses/10: 5
-https://www.anapioficeandfire.com/api/houses/209: 2
-https://www.anapioficeandfire.com/api/houses/419: 7
-https://www.anapioficeandfire.com/api/houses/324: 1
-https://www.anapioficeandfire.com/api/houses/71: 1
-https://www.anapioficeandfire.com/api/houses/132: 2
-https://www.anapioficeandfire.com/api/houses/249: 1
-https://www.anapioficeandfire.com/api/houses/408: 1
-https://www.anapioficeandfire.com/api/houses/11: 8
-https://www.anapioficeandfire.com/api/houses/268: 1
-https://www.anapioficeandfire.com/api/houses/275: 2
-https://www.anapioficeandfire.com/api/houses/409: 1
-https://www.anapioficeandfire.com/api/houses/265: 2
-https://www.anapioficeandfire.com/api/houses/87: 6
-https://www.anapioficeandfire.com/api/houses/193: 2
-https://www.anapioficeandfire.com/api/houses/263: 1
-https://www.anapioficeandfire.com/api/houses/338: 1
-https://www.anapioficeandfire.com/api/houses/393: 1
-https://www.anapioficeandfire.com/api/houses/427: 13
-https://www.anapioficeandfire.com/api/houses/185: 1
-https://www.anapioficeandfire.com/api/houses/70: 1
-https://www.anapioficeandfire.com/api/houses/213: 2
-https://www.anapioficeandfire.com/api/houses/387: 1
-https://www.anapioficeandfire.com/api/houses/264: 3
-https://www.anapioficeandfire.com/api/houses/220: 4
-https://www.anapioficeandfire.com/api/houses/441: 1
-https://www.anapioficeandfire.com/api/houses/440: 2
-https://www.anapioficeandfire.com/api/houses/270: 2
-https://www.anapioficeandfire.com/api/houses/135: 1
-https://www.anapioficeandfire.com/api/houses/136: 1
-https://www.anapioficeandfire.com/api/houses/69: 1
-https://www.anapioficeandfire.com/api/houses/310: 1
-https://www.anapioficeandfire.com/api/houses/12: 1
-https://www.anapioficeandfire.com/api/houses/365: 2
-https://www.anapioficeandfire.com/api/houses/331: 1
-https://www.anapioficeandfire.com/api/houses/118: 1
-https://www.anapioficeandfire.com/api/houses/334: 2
-https://www.anapioficeandfire.com/api/houses/203: 1
-https://www.anapioficeandfire.com/api/houses/297: 1
-https://www.anapioficeandfire.com/api/houses/333: 2
-https://www.anapioficeandfire.com/api/houses/320: 1
-https://www.anapioficeandfire.com/api/houses/357: 3
-https://www.anapioficeandfire.com/api/houses/174: 1
-https://www.anapioficeandfire.com/api/houses/231: 1
-https://www.anapioficeandfire.com/api/houses/76: 1
-https://www.anapioficeandfire.com/api/houses/72: 11
-https://www.anapioficeandfire.com/api/houses/116: 2
-https://www.anapioficeandfire.com/api/houses/366: 1
-https://www.anapioficeandfire.com/api/houses/179: 1
-https://www.anapioficeandfire.com/api/houses/235: 1
-https://www.anapioficeandfire.com/api/houses/392: 2
-https://www.anapioficeandfire.com/api/houses/356: 2
-https://www.anapioficeandfire.com/api/houses/406: 1
-https://www.anapioficeandfire.com/api/houses/383: 1
-https://www.anapioficeandfire.com/api/houses/421: 1
-https://www.anapioficeandfire.com/api/houses/236: 1
-https://www.anapioficeandfire.com/api/houses/146: 1
-https://www.anapioficeandfire.com/api/houses/274: 1
-https://www.anapioficeandfire.com/api/houses/370: 1
-https://www.anapioficeandfire.com/api/houses/416: 1
-https://www.anapioficeandfire.com/api/houses/113: 1
-https://www.anapioficeandfire.com/api/houses/430: 1
-https://www.anapioficeandfire.com/api/houses/28: 1
-https://www.anapioficeandfire.com/api/houses/389: 1
-https://www.anapioficeandfire.com/api/houses/344: 3
-https://www.anapioficeandfire.com/api/houses/129: 2
-https://www.anapioficeandfire.com/api/houses/58: 1
-https://www.anapioficeandfire.com/api/houses/79: 1
-https://www.anapioficeandfire.com/api/houses/62: 1
-https://www.anapioficeandfire.com/api/houses/348: 2
-https://www.anapioficeandfire.com/api/houses/100: 1
-https://www.anapioficeandfire.com/api/houses/49: 1
-https://www.anapioficeandfire.com/api/houses/98: 1
-https://www.anapioficeandfire.com/api/houses/314: 1
-https://www.anapioficeandfire.com/api/houses/104: 1
-https://www.anapioficeandfire.com/api/houses/352: 1
-https://www.anapioficeandfire.com/api/houses/190: 2
-https://www.anapioficeandfire.com/api/houses/24: 3
-https://www.anapioficeandfire.com/api/houses/279: 2
-https://www.anapioficeandfire.com/api/houses/175: 1
-https://www.anapioficeandfire.com/api/houses/31: 1
-https://www.anapioficeandfire.com/api/houses/432: 1
-https://www.anapioficeandfire.com/api/houses/157: 1
-https://www.anapioficeandfire.com/api/houses/205: 2
-https://www.anapioficeandfire.com/api/houses/84: 1
-https://www.anapioficeandfire.com/api/houses/243: 1
-https://www.anapioficeandfire.com/api/houses/131: 1
-https://www.anapioficeandfire.com/api/houses/197: 1
-https://www.anapioficeandfire.com/api/houses/242: 1
-https://www.anapioficeandfire.com/api/houses/418: 1
-https://www.anapioficeandfire.com/api/houses/223: 1
-https://www.anapioficeandfire.com/api/houses/122: 1
-https://www.anapioficeandfire.com/api/houses/420: 1
-https://www.anapioficeandfire.com/api/houses/77: 1
+House Stark of Winterfell: 88
+House Tyrell of Highgarden: 44
+House Lannister of Casterly Rock: 79
+House Hightower of the Hightower: 19
+House Frey of the Crossing: 123
+House Marbrand of Ashemark: 5
+House Osgrey of Standfast: 22
+House Targaryen of King's Landing: 101
+House Velaryon of Driftmark: 15
+House Swyft of Cornfield: 9
+House Blackfyre of King's Landing: 11
+House Bracken of Stone Hedge: 14
+House Penrose of Parchments: 4
+House Arryn of the Eyrie: 24
+House Costayne of Three Towers: 3
+House Estermont of Greenstone: 7
+House Greyjoy of Pyke: 42
+House Wynch of Iron Holt: 2
+House Yew: 2
+House Harlaw of Harlaw: 7
+House Royce of the Gates of the Moon: 7
+House Florent of Brightwater Keep: 14
+House Staedmon of Broad Arch: 1
+House Norcross: 6
+House Oakheart of Old Oak: 6
+House Gardener of Highgarden: 1
+House Thorne: 2
+House Dayne of Starfall: 7
+House Graceford of Holyhall: 1
+House Ambrose: 5
+House Cockshaw: 1
+House Connington of Griffin's Roost: 5
+House Haigh: 6
+House Hunt: 2
+House Stackspear: 3
+House Tarbeck of Tarbeck Hall: 3
+House Waynwood of Ironoaks: 10
+House Beesbury of Honeyholt: 9
+House Karstark of Karhold: 11
+House Thenn: 2
+House Mormont of Bear Island: 8
+House Bulwer of Blackcrown: 3
+House Farman of Faircastle: 3
+House Lefford of the Golden Tooth: 5
+House Tarth of Evenfall Hall: 8
+House Blackwood of Raventree Hall: 8
+House Baratheon of Storm's End: 19
+House Crakehall of Crakehall: 12
+House Butterwell: 5
+House Lannister of Darry: 2
+House Lorch: 2
+House Royce of Runestone: 12
+House Yronwood of Yronwood: 6
+House Charlton: 2
+House Brax of Hornvale: 10
+House Ashford of Ashford: 4
+House Farring: 4
+House Jast: 2
+House Celtigar of Claw Isle: 1
+House Durrandon: 2
+House Nymeros Martell of Sunspear: 36
+House Caswell of Bitterbridge: 6
+House Santagar of Spottswood: 3
+House Norrey: 3
+House Qorgyle of Sandstone: 4
+House Selmy of Harvest Hall: 3
+House Ironmaker: 5
+House Blacktyde of Blacktyde: 2
+House Byrch: 2
+House Botley of Lordsport: 14
+House Swann of Stonehelm: 10
+House Dustin of Barrowton: 3
+House Ryswell of the Rills: 8
+House Hawick of Saltpans: 1
+House Bushy: 1
+House Belmore of Strongsong: 2
+House Broom: 1
+House Tallhart of Torrhen's Square: 7
+House Brune of Brownhollow: 2
+House Hornwood of Hornwood: 5
+House Dondarrion of Blackhaven: 3
+House Cassel: 4
+House Bolton of the Dreadfort: 15
+House Redwyne of the Arbor: 11
+House Rowan of Goldengrove: 3
+House Rosby of Rosby: 2
+House Hasty: 1
+House Harlaw of Harridan Hill: 1
+House Blount: 1
+House Cuy of Sunhouse: 2
+House Stokeworth of Stokeworth: 6
+House Fossoway of Cider Hall: 5
+House Baratheon of Dragonstone: 25
+House Caron of Nightsong: 5
+House Tully of Riverrun: 17
+House Smallwood of Acorn Hall: 4
+House Wylde of Rain House: 10
+House Vaith of the Red Dunes: 2
+House Payne: 3
+House Buckler of Bronzegate: 2
+House Crabb: 5
+House Piper of Pinkmaiden: 3
+House Cerwyn of Cerwyn: 3
+House Corbray of Heart's Home: 8
+House Redfort of Redfort: 7
+House Manwoody of Kingsgrave: 5
+House Drumm of Old Wyk: 8
+House Paege: 7
+House Shett of Gull Tower: 1
+House Vypren: 3
+House Lothston of Harrenhal: 6
+House Slynt of Harrenhal: 4
+House Hardyng: 3
+House Allyrion of Godsgrace: 4
+House Plumm: 8
+House Darklyn of Duskendale: 4
+House Mallister of Seagard: 6
+House Grell: 1
+House Seaworth of Cape Wrath: 9
+House Dalt of Lemonwood: 2
+House Tarly of Horn Hill: 6
+House Manderly of White Harbor: 10
+House Locke of Oldcastle: 4
+House Saltcliffe of Saltcliffe: 1
+House Hollard: 5
+House Bar Emmon of Sharp Point: 1
+House Tollett of the Grey Glen: 2
+House Risley: 1
+House Waxley of Wickenden: 1
+House Baratheon of King's Landing: 8
+House Codd: 2
+House Mooton of Maidenpool: 3
+House Westerling of the Crag: 12
+House Uller of Hellholt: 3
+House Vance of Atranta: 5
+House Reyne of Castamere: 2
+House Meadows of Grassy Vale: 2
+House Willum: 2
+House Norridge: 1
+House Frey of Riverrun: 6
+House Vance of Wayfarer's Rest: 4
+House Hunter of Longbow Hall: 5
+House Glover of Deepwood Motte: 6
+House Hayford of Hayford: 1
+House Prester of Feastfires: 2
+House Fowler of Skyreach: 1
+House Tyrell of Brightwater Keep: 2
+House Goodbrook: 4
+House Greenfield of Greenfield: 2
+House Gower: 1
+House Grafton of Gulltown: 3
+House Borrell of Sweetsister: 1
+House Peake of Starpike: 3
+House Goodbrother of Hammerhorn: 6
+House Morrigen of Crow's Nest: 4
+House Sunglass of Sweetport Sound: 2
+House Grimm of Greyshield: 1
+House Gaunt: 1
+House Farwynd of the Lonely Light: 4
+House Mollen: 1
+House Grandison of Grandview: 3
+House Umber of the Last Hearth: 6
+House Harlaw of Grey Garden: 1
+House Strickland: 1
+House Strong of Harrenhal: 4
+House Fell of Felwood: 2
+House Stout of Goldgrass: 3
+House Uffering: 2
+House Bolling: 1
+House Kenning of Harlaw: 3
+House Kenning of Kayce: 3
+House Hoare of Orkmont: 1
+House Banefort of Banefort: 2
+House Harlaw of the Tower of Glimmering: 1
+House Reed of Greywater Watch: 4
+House Rambton: 1
+House Wull: 2
+House Hewett of Oakenshield: 3
+House Wagstaff: 1
+House Vyrwel of Darkdell: 1
+House Bywater: 1
+House Musgood: 1
+House Fossoway of New Barrel: 4
+House Buckwell of the Antlers: 1
+House Darry of Darry: 6
+House Clifton: 3
+House Lydden of Deep Den: 2
+House Poole: 2
+House Lonmouth: 2
+House Bettley: 1
+House Lynderly of the Snakewood: 2
+House Myre of Harlaw: 1
+House Peckledon: 1
+House Erenford: 1
+House Massey of Stonedance: 2
+House Condon: 1
+House Turnberry: 1
+House Tawney of Orkmont: 1
+House Blackbar of Bandallon: 1
+House Woolfield: 1
+House Serry of Southshield: 3
+House Staunton of Rook's Rest: 3
+House Mallery: 1
+House Baelish of Harrenhal: 5
+House Inchfield: 2
+House Webber of Coldmoat: 7
+House Roote of Lord Harroway's Town: 1
+House Chyttering: 1
+House Flint of Widow's Watch: 2
+House Lychester: 1
+House Vikary: 1
+House Baelish of the Fingers: 8
+House Moore: 1
+House Mullendore of Uplands: 2
+House Volmark: 1
+House Mertyns of Mistwood: 2
+House Crane of Red Lake: 6
+House Hetherspoon: 2
+House Merlyn of Pebbleton: 1
+House Sarsfield of Sarsfield: 1
+House Trant of Gallowsgrey: 1
+House Whent of Harrenhal: 13
+House Hastwyck: 1
+House Chester of Greenshield: 1
+House Jordayne of the Tor: 2
+House Toland of Ghost Hill: 1
+House Merryweather of Longtable: 3
+House Kettleblack: 4
+House Yarwyck: 1
+House Wythers: 2
+House Moreland: 2
+House Foote: 1
+House Foote of Nightsong: 1
+House Chelsted: 1
+House Qoherys of Harrenhal: 1
+House Ball: 1
+House Stonehouse of Old Wyk: 2
+House Ruttiger: 1
+House Estren of Wyndhall: 1
+House Rykker of Duskendale: 2
+House Horpe: 1
+House Peasebury of Poddingfield: 1
+House Ryger of Willow Wood: 2
+House Rhysling: 1
+House Spicer of Castamere: 3
+House Harclay: 1
+House Lannister of Lannisport: 1
+House Coldwater of Coldwater Burn: 1
+House Clegane: 11
+House Errol of Haystack Hall: 2
+House Stonetree of Harlaw: 1
+House Harlaw of Harlaw Hall: 1
+House Leygood: 1
+House Toyne: 2
+House Sparr of Great Wyk: 2
+House Varner: 1
+House Templeton: 1
+House Wells: 2
+House Liddle: 1
+House Gargalen of Salt Shore: 1
+House Mudd of Oldstones: 1
+House Sunderland of the Three Sisters: 1
+House Wayn: 1
+House Egen: 1
+House Wode: 1
+House Blanetree: 1
+House Torrent of Littlesister: 1
+House Sharp: 3
+House Flint  of the mountains: 2
+House Cafferen of Fawnton: 1
+House Conklyn: 1
+House Casterly of Casterly Rock: 1
+House Shepherd: 2
+House Deddings: 1
+House Brune of the Dyre Den: 1
+House Dayne of High Hermitage: 1
+House Redbeard: 1
+House Drinkwater: 1
+House Slate of Blackpool: 1
+House Heddle: 2
+House Blackmont of Blackmont: 3
+House Nayland of Hag's Mire: 2
+House Hardy: 1
+House Boggs of Crackclaw Point: 1
+House Woods: 1
+House Goodbrother of Shatterstone: 1
+House Humble: 2
+House Cox of Saltpans: 1
+House Longwaters: 1
+House Flint of Flint's Finger: 1
+House Hogg of Sow's Horn: 1
+House Longthorpe of Longsister: 1
+House Weaver: 1
+House Kyndall: 1
+House Farwynd of Sealskin Point: 1
+House Cole: 1
