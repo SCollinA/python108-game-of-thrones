@@ -1,7 +1,9 @@
 from characters.characters import characters
-from urllib.request import Request, urlopen
-from os import makedirs, path
-from time import sleep
+from books.books import books
+from houses.houses import houses
+# from urllib.request import Request, urlopen
+# from os import makedirs, path
+# from time import sleep
 
 # for page in range(1, 50):
 # r = requests.get(URL)
@@ -15,7 +17,7 @@ def name_starts_with(char):
     with open('name_starts_with_%s.txt' % char, 'w') as f:
         count = 0
         for character in characters:
-            if character["name"][0] == char:
+            if character["name"][0] == char and character['name'] != '':
                 f.write(character["name"] + "\n")
                 count += 1
         f.write(str(count))
@@ -83,47 +85,16 @@ def houses_histogram():
         houses = {}
         for character in characters:
             for allegiance in character['allegiances']:
-                allegiance = get_house_from(allegiance)
+                for house in houses:
+                    if allegiance == house['url']:
+                        allegiance = house['name']
+                        break
                 if allegiance not in houses:
                     houses[allegiance] = 1
                 else:
                     houses[allegiance] += 1
         for allegiance, count in houses.items():
             f.write("%s: %d\n" % (allegiance, count))
-
-def make_houses_package():
-    # get string of houses dictionary from api
-    # write string to file as .py
-    if not path.exists('houses'):
-        makedirs('houses')
-    with open('houses/houses.py', 'w+') as f:
-        f.write('houses = ')
-        i = 1
-        while True:
-            req = Request("https://www.anapioficeandfire.com/api/houses?page=%d&pageSize=100" % i, headers={'User-Agent': 'Mozilla/5.0'})
-            webpage = urlopen(req).read().decode('utf-8')
-            if webpage == '[]':
-                f.write(']')
-                break
-            # keep incrementing until page is empty
-            else:
-                if i != 1:
-                    f.write(',')
-                else:
-                    f.write('[')
-                webpage = webpage[1:-1] # remove first and last char which is [ and ]
-                f.write(webpage)
-                i += 1
-    with open('houses/__init__.py', 'w') as f:
-        f.write('')
-
-def get_house_from(allegiance):
-    if not path.exists('houses'):
-        make_houses_package()
-    from houses.houses import houses
-    for house in houses:
-        if allegiance == house['url']:
-            return house['name']
 
 # How many characters names start with "A"?
 name_starts_with("A")
