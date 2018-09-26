@@ -3,6 +3,10 @@ from urllib.request import Request, urlopen
 from os import makedirs, path
 from time import sleep
 
+# for page in range(1, 50):
+# r = requests.get(URL)
+# chars.extend(r.json())
+
 # write answers to file
 
 # How many characters names start with "A"?
