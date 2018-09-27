@@ -29,8 +29,24 @@ import json
 from os import mkdir
 
 URL = 'https://www.anapioficeandfire.com/api/houses?page=%d&pageSize=100'
-OUTPUT = 
+OUTPUT = 'houses/houses.py'
 
-for page in range(1, 50):
-r = requests.get(URL)
-chars.extend(r.json())
+houses = []
+
+mkdir('houses')
+
+page = 1
+while True:
+    print('Requesting page %d' % page)
+    r = requests.get(URL % page)
+    new_chars = r.json()
+    if len(new_chars) > 0:
+        houses.extend(new_chars)
+    else:
+        break
+    page += 1
+
+with open(OUTPUT, 'w') as f:
+    print('Writing to file...')
+    f.write('houses = ')
+    f.write(json.dumps(houses))
